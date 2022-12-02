@@ -2,14 +2,14 @@
 	display: flex;
 	gap: 3rem;
 	margin-inline: auto;
-	margin-top: 3rem;
+	margin-top: 1rem;
 }
 
 .form {
 	width: 400px;
 }
 
-.form h1 {
+h1 {
 	text-align: center;
 }
 
