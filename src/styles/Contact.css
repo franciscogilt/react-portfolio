@@ -1,0 +1,38 @@
+.contact {
+	display: flex;
+	gap: 3rem;
+	margin-inline: auto;
+	margin-top: 3rem;
+}
+
+.form {
+	width: 400px;
+}
+
+.form h1 {
+	text-align: center;
+}
+
+.form-btn {
+	margin-top: 1rem;
+}
+
+.map {
+	height: 400px;
+	width: 400px;
+}
+
+@media only screen and (max-width: 600px) {
+    .contact {
+        flex-direction: column;
+        width: 90%;
+    }
+
+    .form{
+        width: 100%;
+    }
+
+    .map{
+        width: 100%;
+    }
+}
