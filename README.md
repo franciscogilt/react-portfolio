@@ -19,4 +19,4 @@ La página recarga cuando haces cambios.
 
 ### `yarn build`
 
-Prepara el app para producción en la carpeta `build`.\
+Prepara el app para producción en la carpeta `build`.
